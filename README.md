@@ -16,7 +16,6 @@ This readme file provides an overview of the Hangman game implementation and its
 3. [How to Play](#how-to-play)
 4. [Installation](#installation)
 5. [Dependencies](#dependencies)
-6. [License](#license)
 
 ## Overview
 
@@ -96,7 +95,3 @@ The Hangman game relies on the following dependencies:
 - Pygame (>= 2.0.1)
 
 Make sure you have these dependencies installed on your system to run the game.
-
-## License
-
-The Hangman game is provided under an open-source license. Please refer to the game's repository for more information on the license terms and conditions.
